@@ -1,39 +1,39 @@
 # webstack_Portfolio_Project_ALX
-E-shop web API is an e-commerce API designed to provide a comprehensive set of features for building and managing online stores
+# E-shop web API is an e-commerce API designed to provide a comprehensive set of features for building and managing online stores
 
-Run
-Install
+# Run
+# Install
 
-npm install
+# npm install
 
-Start API
+# Start API
 
-npm start
+# npm start
 
-Users
+# Users
 
-GET      /api/v1/users
-GET      /api/v1/users//profile/:id
-POST     /api/v1/users/register
-PUT      /api/v1/users/:userid
-DELETE   /api/v1/users/:userid
+# GET      /api/v1/users
+# GET      /api/v1/users//profile/:id
+# POST     /api/v1/users/register
+# PUT      /api/v1/users/:userid
+# DELETE   /api/v1/users/:userid
 
-Routes
-Products
+# Routes
+# Products
 
-GET      /api/v1/products
-GET      /api/v1/products/:id
-POST     /api/v1/products/addproduct
-PUT      /api/v1/products/:productid
-DELETE   /api/v1/products/:productid
+# GET      /api/v1/products
+# GET      /api/v1/products/:id
+# POST     /api/v1/products/addproduct
+# PUT      /api/v1/products/:productid
+# DELETE   /api/v1/products/:productid
 
-Register new user
+# Register new user
 
-POST     /api/v1/users/register
+# POST     /api/v1/users/register
 
-Login user
+# Login user
 
-To login the user and get the auth token you can use:
+# To login the user and get the auth token you can use:
 
-POST     /api/v1/users/login
+# POST     /api/v1/users/login
 
